@@ -1,0 +1,14 @@
+{
+  "build": {
+    // 使用 Nixpacks 构建器
+    "builder": "nixpacks",
+    // 指定后端代码所在目录
+    "rootDirectory": "subway-backend",
+    // 构建命令：跳过测试，快速打包
+    "buildCommand": "mvn clean package -DskipTests"
+  },
+  "start": {
+    // 启动命令：让 Spring Boot 用环境变量 PORT（Railway 动态分配）
+    "startCommand": "java -Dserver.port=$PORT -jar target/*.jar"
+  }
+}
