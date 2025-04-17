@@ -1,0 +1,191 @@
+[
+    {
+        "lineId": "1号线/八通线",
+        "directions": [
+            {"direction": "东行", "startStation": "古城", "endStation": "环球度假区"},
+            {"direction": "西行", "startStation": "环球度假区", "endStation": "古城"}
+        ]
+    },
+    {
+        "lineId": "2号线",
+        "directions": [
+            {"direction": "内环", "startStation": "西直门", "endStation": "积水潭"},
+            {"direction": "外环", "startStation": "积水潭", "endStation": "西直门"}
+        ]
+    },
+    {
+        "lineId": "3号线",
+        "directions": [
+            {"direction": "西行", "startStation": "东坝北", "endStation": "东四十条"},
+            {"direction": "东行", "startStation": "东四十条", "endStation": "东坝北"}
+        ]
+    },
+    {
+        "lineId": "4号线/大兴线",
+        "directions": [
+            {"direction": "南行", "startStation": "安河桥北", "endStation": "天宫院"},
+            {"direction": "北行", "startStation": "天宫院", "endStation": "安河桥北"}
+        ]
+    },
+    {
+        "lineId": "5号线",
+        "directions": [
+            {"direction": "南行", "startStation": "天通苑北", "endStation": "宋家庄"},
+            {"direction": "北行", "startStation": "宋家庄", "endStation": "天通苑北"}
+        ]
+    },
+    {
+        "lineId": "6号线",
+        "directions": [
+            {"direction": "东行", "startStation": "金安桥", "endStation": "潞城"},
+            {"direction": "西行", "startStation": "潞城", "endStation": "金安桥"}
+        ]
+    },
+    {
+        "lineId": "7号线",
+        "directions": [
+            {"direction": "东行", "startStation": "北京西站", "endStation": "环球度假区"},
+            {"direction": "西行", "startStation": "环球度假区", "endStation": "北京西站"}
+        ]
+    },
+    {
+        "lineId": "8号线",
+        "directions": [
+            {"direction": "南行", "startStation": "朱辛庄", "endStation": "瀛海"},
+            {"direction": "北行", "startStation": "瀛海", "endStation": "朱辛庄"}
+        ]
+    },
+    {
+        "lineId": "9号线",
+        "directions": [
+            {"direction": "北行", "startStation": "郭公庄", "endStation": "国家图书馆"},
+            {"direction": "南行", "startStation": "国家图书馆", "endStation": "郭公庄"}
+        ]
+    },
+    {
+        "lineId": "10号线",
+        "directions": [
+            {"direction": "内环", "startStation": ["宋家庄", "车道沟"], "endStation": ["巴沟", "成寿寺"]},
+            {"direction": "外环", "startStation": ["巴沟", "成寿寺"], "endStation": ["宋家庄", "车道沟"]}
+        ]
+    },
+    {
+        "lineId": "11号线",
+        "directions": [
+            {"direction": "南行", "startStation": "模式口", "endStation": "新首钢"},
+            {"direction": "北行", "startStation": "新首钢", "endStation": "模式口"}
+        ]
+    },
+    {
+        "lineId": "12号线",
+        "directions": [
+            {"direction": "西行", "startStation": "东坝北", "endStation": "四季青桥"},
+            {"direction": "东行", "startStation": "四季青桥", "endStation": "东坝北"}
+        ]
+    },
+    {
+        "lineId": "13号线",
+        "directions": [
+            {"direction": "东行", "startStation": "西直门", "endStation": "东直门"},
+            {"direction": "西行", "startStation": "东直门", "endStation": "西直门"}
+        ]
+    },
+    {
+        "lineId": "14号线",
+        "directions": [
+            {"direction": "东北行", "startStation": "张郭庄", "endStation": "善各庄"},
+            {"direction": "西南行", "startStation": "善各庄", "endStation": "张郭庄"}
+        ]
+    },
+    {
+        "lineId": "15号线",
+        "directions": [
+            {"direction": "东行", "startStation": "清华东路西口", "endStation": "俸伯"},
+            {"direction": "西行", "startStation": "俸伯", "endStation": "清华东路西口"}
+        ]
+    },
+    {
+        "lineId": "16号线",
+        "directions": [
+            {"direction": "北行", "startStation": "宛平城", "endStation": "北安河"},
+            {"direction": "南行", "startStation": "北安河", "endStation": "宛平城"}
+        ]
+    },
+    {
+        "lineId": "17号线南",
+        "directions": [
+            {"direction": "南行", "startStation": "十里河", "endStation": "嘉会湖"},
+            {"direction": "北行", "startStation": "嘉会湖", "endStation": "十里河"}
+        ]
+    },
+    {
+        "lineId": "17号线北",
+        "directions": [
+            {"direction": "北行", "startStation": "工人体育场", "endStation": "未来科学城北"},
+            {"direction": "南行", "startStation": "未来科学城北", "endStation": "工人体育场"}
+        ]
+    },
+    {
+        "lineId": "19号线",
+        "directions": [
+            {"direction": "南行", "startStation": "牡丹园", "endStation": "新宫"},
+            {"direction": "北行", "startStation": "新宫", "endStation": "国家图书馆"}
+        ]
+    },
+    {
+        "lineId": "S1线",
+        "directions": [
+            {"direction": "进城", "startStation": "石厂", "endStation": "苹果园"},
+            {"direction": "出城", "startStation": "苹果园", "endStation": "石厂"}
+        ]
+    },
+    {
+        "lineId": "昌平线",
+        "directions": [
+            {"direction": "进城", "startStation": "昌平西山口", "endStation": "蓟门桥"},
+            {"direction": "出城", "startStation": "昌平", "endStation": "蓟门桥"}
+        ]
+    },
+    {
+        "lineId": "房山线",
+        "directions": [
+            {"direction": "进城", "startStation": "东管头南", "endStation": "阎村东"},
+            {"direction": "出城", "startStation": "阎村东", "endStation": "东管头南"}
+        ]
+    },
+    {
+        "lineId": "亦庄线",
+        "directions": [
+            {"direction": "进城", "startStation": "亦庄火车站", "endStation": "宋家庄"},
+            {"direction": "出城", "startStation": "宋家庄", "endStation": "亦庄火车站"}
+        ]
+    },
+    {
+        "lineId": "首都机场线",
+        "directions": [
+            {"direction": "进城", "startStation": "3号航站楼", "endStation": "北新桥"},
+            {"direction": "出城", "startStation": "北新桥", "endStation": "3号航站楼"}
+        ]
+    },
+    {
+        "lineId": "大兴机场线",
+        "directions": [
+            {"direction": "进城", "startStation": "大兴机场", "endStation": "草桥"},
+            {"direction": "出城", "startStation": "草桥", "endStation": "大兴机场"}
+        ]
+    },
+    {
+        "lineId": "燕房线",
+        "directions": [
+            {"direction": "进城", "startStation": "燕山", "endStation": "阎村东"},
+            {"direction": "出城", "startStation": "阎村东", "endStation": "燕山"}
+        ]
+    },
+    {
+        "lineId": "西郊线",
+        "directions": [
+            {"direction": "进城", "startStation": "香山", "endStation": "巴沟"},
+            {"direction": "出城", "startStation": "巴沟", "endStation": "香山"}
+        ]
+    }
+]
